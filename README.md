@@ -13,21 +13,9 @@
 - [Contributing](#contributing)
 - [License](#license)
 
-## Support
+## Copyright
 
-Please support this project with you or your organization. Your logo will appear here with a link to your website. We'll appreciate some support. [[Contribute](https://opencollective.com/yamada-ui/contribute)]
-
-### Organizations
-
-<a href="https://opencollective.com/yamada-ui"><img src="https://opencollective.com/yamada-ui/organizations.svg?avatarHeight=40&button=false" /></a>
-
-### Individuals
-
-<a href="https://opencollective.com/yamada-ui"><img src="https://opencollective.com/yamada-ui/individuals.svg?avatarHeight=40" /></a>
-
-## Contributing
-
-Wouldn't you like to contribute? That's amazing! We have prepared a [contribution guide](./CONTRIBUTING.md) to assist you.
+This project is a fork of <a href="https://github.com/yamada-ui/yamada-colors">Yamada Colors</a>. Everything, including its copyright, is controlled by <a href="https://github.com/yamada-ui/yamada-colors">Yamada Colors</a>.
 
 ## License
 
