@@ -46,7 +46,7 @@ import {
   VStack,
 } from "@yamada-ui/react"
 import { SearchColor } from "components/forms"
-import { Discord, Github } from "components/media-and-icons"
+import { Telegram, Facebook, YouTube, Github } from "components/media-and-icons"
 import { NextLink, NextLinkIconButton, Tree } from "components/navigation"
 import { CONSTANT } from "constant"
 import { useApp } from "contexts/app-context"
